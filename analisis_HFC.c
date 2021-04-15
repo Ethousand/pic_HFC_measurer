@@ -7,7 +7,7 @@
 #byte porta = 0x05
 
 // variables generales
-int delay = 200;
+int delay = 200; // variable de tiempo anti-rebote 
 
 int main()
 {
